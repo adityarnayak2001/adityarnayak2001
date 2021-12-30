@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityarnayak2001
 - 👀 I’m interested in Machine Learning and CyberSecurity
-- 🌱 I’m currently learning ComputerScience 2nd year at M.S.Ramaiah Institute of Technology.
+- 🌱 I’m currently learning ComputerScience 3rd year at M.S.Ramaiah Institute of Technology.
 - 📫 How to reach me ...
 
 <!---
