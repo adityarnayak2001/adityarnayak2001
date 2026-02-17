@@ -34,7 +34,7 @@ Full-stack application built with:
 **Databases:** Oracle SQL • MySQL • MongoDB  
 
 ## 📫 Connect
-LinkedIn: https://www.linkedin.com/in/aditya-nayak-6532b9218/  
+LinkedIn: https://www.linkedin.com/in/adityanayak2001/
 Email: adityarnayak2001@gmail.com  
 <!---
 adityarnayak2001/adityarnayak2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
